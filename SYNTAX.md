@@ -5,6 +5,7 @@
 - [Columns](#columns)
 - [Execution points](#execution-points)
 - [Variables](#variables)
+- [If statememts](#if-statements)
 - [Builtin commands](#builtin-commands)
 
 <br>
