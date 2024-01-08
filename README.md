@@ -2,6 +2,10 @@
 
 **An esoteric programming language made in C# where programs are written vertically!**
 
+#### Requirements:
+
+- Dotnet sdk 7.0 and 8.0
+
 ## Usage
 
 1. Clone the repo
